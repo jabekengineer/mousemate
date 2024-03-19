@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d7f4bf40.js",
+    "static/media/logo.PNG": "/static/media/logo.ed0f869e9ca21455e170.PNG",
+    "static/media/haider_lab_grayscale.PNG": "/static/media/haider_lab_grayscale.ba1666bedbfccdcb63fc.PNG",
+    "index.html": "/index.html",
+    "main.d7f4bf40.js.map": "/static/js/main.d7f4bf40.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d7f4bf40.js"
+  ]
+}
