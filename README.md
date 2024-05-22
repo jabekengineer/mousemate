@@ -158,7 +158,7 @@ Jason Sebek - jason.sebek@bme.gatech.edu
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [product-screenshot]: ./images/screenshot.png
-[product-gif]: ./images/demo.webm.mp4
+[product-gif]: ./images/demo.gif
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
