@@ -55,10 +55,11 @@
 
 [![Product Name Screen Shot][product-gif]](https://jshaiderlab.bme.gatech.edu/)
 
+**Try it!** Click on gif and sign in with username _jason_.
+
 Mousemate was developed to streamline maintaining the records of a large mouse colony. Head to the Haider Wiki page to read more about the following:
 * <a href="https://haiderwiki.bme.gatech.edu/index.php?title=Learn_Mousemate_Development">Development</a>
 * <a href="https://haiderwiki.bme.gatech.edu/index.php?title=How_to_use_Mousemate">User Guide</a>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
